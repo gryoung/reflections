@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A git is created to track changes and manage version control.  You do it when you want to start version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows a developer to get things ready to commit and then do a double check of everything in the repository before executing the commit.  This could prevent unwanted commits that omit files.
